@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1655163267 source:c:\users\allan\onedrive\pasta importante\ciencia comp\estruturas\m3\huffman\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1655167530 source:c:\users\allan\onedrive\pasta importante\ciencia comp\estruturas\m3\huffman - copia\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"tabela_simbolos.h"
+	"arvore_huff.h"
+
+1655167543 c:\users\allan\onedrive\pasta importante\ciencia comp\estruturas\m3\huffman - copia\tabela_simbolos.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"arvore_huff.h"
+
+1655167565 c:\users\allan\onedrive\pasta importante\ciencia comp\estruturas\m3\huffman - copia\arvore_huff.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1656293533 source:c:\users\allan\onedrive\pasta importante\ciencia comp\estruturas\m3\huffman final\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"tabela_simbolos.h"
+	"arvore_huff.h"
+
+1656285081 c:\users\allan\onedrive\pasta importante\ciencia comp\estruturas\m3\huffman final\tabela_simbolos.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"arvore_huff.h"
+
+1655167565 c:\users\allan\onedrive\pasta importante\ciencia comp\estruturas\m3\huffman final\arvore_huff.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
